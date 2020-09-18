@@ -1,6 +1,6 @@
 # srgan
 
-[SRGAN](https://github.com/leftthomas/SRGAN) upscale upto 4x generated using PASCAL VOC DATASET on RTX 2080 Ti GPU (RKMVERI).
+[SRGAN](https://github.com/leftthomas/SRGAN) upscale upto 4x generated using PASCAL VOC DATASET on RTX 2080 Ti GPU ([RKMVERI](http://cs.rkmvu.ac.in/faculty/)).
 
 ## Stats 
 
