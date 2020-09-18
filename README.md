@@ -6,5 +6,19 @@
 
 ![img](https://github.com/Jimut123/srgan/blob/master/ALL_LOSES.png)
 
+## Results
+
+A sample of [results](https://github.com/Jimut123/srgan/tree/master/RESULTS) is given here:
+
+
+![img-index_9](https://github.com/Jimut123/srgan/blob/master/RESULTS/epoch_9_index_1.png)
+
+![img-index_9](https://github.com/Jimut123/srgan/blob/master/RESULTS/epoch_99_index_1.png)
+
+![img-index_9](https://github.com/Jimut123/srgan/blob/master/RESULTS/epoch_189_index_1.png)
+
+
+
+
 
 
