@@ -4,7 +4,7 @@
 
 ## Stats 
 
-[img](https://github.com/Jimut123/srgan/blob/master/ALL_LOSES.png)
+![img](https://github.com/Jimut123/srgan/blob/master/ALL_LOSES.png)
 
 
 
